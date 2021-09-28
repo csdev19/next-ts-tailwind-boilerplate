@@ -10,7 +10,7 @@ This is my boilerplate of an aplication using [Tailwind CSS](https://tailwindcss
   - [x] [Prettier](https://prettier.io/)
   - [x] [ESLint](https://eslint.org/)
   - [ ] [Docker](https://www.docker.com/)
-  - [ ] [Jest](https://facebook.github.io/jest/)
+  - [x] [Jest](https://facebook.github.io/jest/)
 
 
 ## Getting started
@@ -18,6 +18,6 @@ This is my boilerplate of an aplication using [Tailwind CSS](https://tailwindcss
   1. Clone this repository
   2. Install dependencies
   3. Create a `.env` file with your configuration
-  4. Run the app `yarn start`
+  4. Run the app `**npm run dev**`
   5. Open `http://localhost:3000`
 

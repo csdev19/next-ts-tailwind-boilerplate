@@ -1,6 +1,6 @@
 # Next boilerplace TS + Tailwind CSS + ESlint + Prettier
 
-This is my boilerplate of an aplication using [Tailwind CSS](https://tailwindcss.com/) and [TypeScript](https://www.typescriptlang.org/). And enforcing the [Prettier](https://prettier.io/) and [ESLint](https://eslint.org/) style.
+This is my boilerplate of an aplication using [Tailwind CSS](https://tailwindcss.com/) and [TypeScript](https://www.typescriptlang.org/). And enforcing the code style with [Prettier](https://prettier.io/) and [ESLint](https://eslint.org/).
 
 
 ## Features

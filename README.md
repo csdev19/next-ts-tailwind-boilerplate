@@ -12,6 +12,9 @@ This is my boilerplate of an aplication using [Tailwind CSS](https://tailwindcss
   - [ ] [Docker](https://www.docker.com/)
   - [x] [Jest](https://facebook.github.io/jest/)
 
+## Interesting Packages
+
+- [https://reactdatepicker.com/#example-calendar-open-state-callbacks](https://reactdatepicker.com/#example-calendar-open-state-callbacks)
 
 ## Getting started
 

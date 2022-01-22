@@ -12,6 +12,7 @@ This is my boilerplate of an aplication using [Tailwind CSS](https://tailwindcss
   - [ ] [Docker](https://www.docker.com/)
   - [x] [Jest](https://facebook.github.io/jest/)
   - [x] [LAQI - Mock server](https://www.npmjs.com/package/laqi)
+  - [ ] [Husky](https://www.npmjs.com/package/husky)
 
 ## Interesting Packages
 

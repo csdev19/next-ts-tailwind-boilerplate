@@ -1,4 +1,4 @@
-# Next boilerplace TS + Tailwind CSS + ESlint + Prettier
+# Next boilerplace TS + Tailwind CSS + ESlint + Prettier + Laqi
 
 This is my boilerplate of an aplication using [Tailwind CSS](https://tailwindcss.com/) and [TypeScript](https://www.typescriptlang.org/). And enforcing the code style with [Prettier](https://prettier.io/) and [ESLint](https://eslint.org/).
 
@@ -11,7 +11,7 @@ This is my boilerplate of an aplication using [Tailwind CSS](https://tailwindcss
   - [x] [ESLint](https://eslint.org/)
   - [ ] [Docker](https://www.docker.com/)
   - [x] [Jest](https://facebook.github.io/jest/)
-  - [ ] [LAQI - Mock server](https://www.npmjs.com/package/laqi)
+  - [x] [LAQI - Mock server](https://www.npmjs.com/package/laqi)
 
 ## Interesting Packages
 
